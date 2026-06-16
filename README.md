@@ -33,7 +33,7 @@ I focus on building clean, high-performance systems that prioritize explicit int
 
 ## 🧪 Featured Projects
 
-### 🍳 [FlavorAnalytics](https://github.com/StephenMOlson/FlavorAnalytics)
+### 🍳 [FlavorAnalytics](https://github.com/StephenMOlson/Flavor-Analytics)
 A full-stack recipe management and dynamic scaling dashboard built using **.NET 10** and **Blazor**. This project serves as a live, end-to-end demonstration of strict Clean Architecture isolation, handwritten Dapper data transactions, a custom business-logic-driven unit normalization matrix, and cloud-tier resilience handling.
 
 ---
